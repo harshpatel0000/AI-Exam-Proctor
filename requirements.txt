@@ -1,0 +1,12 @@
+opencv-python
+numpy
+mediapipe
+ultralytics
+face_recognition
+dlib
+pandas
+matplotlib
+fpdf
+scikit-learn
+scipy
+Pillow
